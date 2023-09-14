@@ -1,3 +1,3 @@
-# Login-App-Dicoding
+# Login App Dicoding
 
 Belajar Dasar Web by Dicoding
